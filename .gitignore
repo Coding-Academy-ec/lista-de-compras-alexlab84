@@ -34,3 +34,5 @@ dist/
 .DS_Store
 *.swp
 *~
+
+venv
